@@ -8,9 +8,9 @@ IT
 guntur
 
 
-# Ratna kumar
-## Y19IT065
-### ratnakumarkurinchira@gmail.com
-#### 9700740604
-##### IT
-###### Guntur
+# Ratna kumar Kurinchira
+# Y19IT065
+# ratnakumarkurinchira@gmail.com
+# 9700740604
+# IT
+# Guntur
